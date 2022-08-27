@@ -8,6 +8,6 @@ public class Offer57 {
     public int[][] findContinuousSequence(int target) {
         int left = 0;
         int right = 1;
-
+        return null;
     }
 }
